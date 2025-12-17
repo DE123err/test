@@ -1,0 +1,33 @@
+# Built application files
+*.apk
+*.apkm
+*.apks
+*.aab
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
+
+# Native
+.externalNativeBuild/
+.cxx/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Keystore (NEVER commit!)
+*.jks
+*.keystore
