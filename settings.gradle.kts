@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "webview"
 include(":app")
+include(":webview")
